@@ -1,0 +1,48 @@
+body{
+ background-color: #666370;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   margin-top: 20vmin;
+}
+
+#countDisplay{
+    font-size: 29vmin;
+    color: red;
+}
+#increaseBtn{
+background-color:#81C14B ;
+height: 5vmin;
+border: none;
+ cursor: pointer;
+width: 8rem;
+}
+#increaseBtn:hover{
+    background-color: #2E933C;
+}
+
+#resetBtn{
+background-color:#81C14B ;
+height: 5vmin;
+border: none;
+width: 8rem;
+ cursor: pointer;
+}
+
+#resetBtn:hover{
+     background-color: #2E933C;
+}
+
+#decreaseBtn{
+background-color:#81C14B ;
+border: none;
+height: 5vmin;
+ cursor: pointer;
+width: 8rem;
+}
+
+#decreaseBtn:hover{
+    background-color: #2E933C;
+}
