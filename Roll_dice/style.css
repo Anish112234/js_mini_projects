@@ -1,0 +1,20 @@
+body{
+    background-color: blueviolet;
+}
+.dice{
+    text-align: center;
+    margin-top: 15rem;
+}
+button{
+    height: 8vmin;
+    width: 20vmin;
+    border: none;
+    
+}
+button:hover{
+    background-color: rgb(126, 3, 198);
+}
+p{
+    font-size: 7vmin;
+    color: white;
+}
